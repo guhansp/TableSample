@@ -1,0 +1,28 @@
+body{
+    background-image:url("https://i.pinimg.com/originals/f1/4a/ae/f14aaec5fea2a288102d8e9967f9369c.jpg");
+    color:#fff;
+}
+
+
+.size1
+{
+    width:300px;
+    padding: 20px;
+
+}
+.size2
+{
+    width:800px;
+    font-size: 30px;
+    
+}
+.size3
+{
+    width: 800px;
+    font-size: 30px;
+    
+}
+
+tr.borderbtm td {
+    border-bottom: 3px solid white;
+}
